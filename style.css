@@ -1,0 +1,246 @@
+/* ALL */
+html, body {
+	background-color: #1B1B1B;
+	height: 100%;
+}
+.jumbotron {
+	background-image: url("BlueMobo.jpeg");
+	background-size: 100%;
+	padding-top: 15%;
+	padding-bottom: 15%;
+}
+.jumbotron p {
+	font-family: "Georgia", serif;
+	text-align: center;
+	color: #FFFFFF;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.jumbotron h1 {
+	text-align: center;
+	color: #FFFFFF;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+.nav-tabs a {
+	color: #FFFFFF;
+}
+.nav-tabs {
+	background-color: #1B1B1B;
+}
+.tab-content {
+	background-color: #FFFFFF;
+	color: #0d99b9
+	padding:5px
+}
+.nav-tabs {
+	position: fixed;
+}
+.nav-tabs > li > a {
+	border: medium none;
+	color: #0d99b9
+}
+.nav-tabs > li > a:hover {
+	background-color: #085e72 !important;
+	border: medium none;
+	border-radius: 0;
+	color: #000000;
+}
+
+/* index page */
+.container h2 {
+	text-align: left;
+	color: #FFFFFF;
+}
+.container h3 {
+	color: #FFFFFF;
+}
+.container p {
+	text-align: left;
+	color: #FFFFFF;
+}
+
+/* Computer Hardware Page */
+.CPU {
+	background-image: url("CPU.jpg");
+	background-size: 100%;
+	height: 75%;
+	width: 100%;
+	background-position: center center;
+}
+.CPU a {
+	color: #E0E0E0;
+	text-decoration: none;
+}
+.CPU1 a {
+	text-decoration: none;
+}
+.CPU1 h2 {
+	color: #E0E0E0;
+	text-decoration: none;
+}
+.CPU1 p {
+	color: #E0E0E0;
+	line-height: 175%;
+	text-decoration: none;
+}
+.GPU {
+	background-image: url("GPU.jpg");
+	background-size: 100%;
+	background-position: center center;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	display: inline-block;
+}
+.GPU h2 {
+	color: #FFFFFF;
+	font: Helvetica;
+}
+.GPU p {
+	color: #FFFFFF;
+	font: Arial;
+}
+.OC {
+	background-image: url("OC.jpg");
+	background-size: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: center center;
+	display: inline-block;
+}
+.OC h2 {
+	color: #FFFFFF;
+	font: Helvetica;
+}
+.OC p {
+	color: #FFFFFF;
+	font: Arial;
+}
+.RAM {
+	background-image: url("RAM.jpg");
+	background-size: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: center center;
+	display: inline-block;
+}
+.RAM h2 {
+	color: #000000;
+	font: Helvetica;
+}
+.RAM p {
+	color: #000000;
+	font: Arial;
+}
+.MOBO {
+	background-image: url("MOBO.jpg");
+	background-size: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: center center;
+	display: inline-block;
+}
+.MOBO h2 {
+	color: #FFFFFF;
+	font: Helvetica;
+}
+.MOBO p {
+	color: #FFFFFF;
+	font: Arial;
+}
+.STORAGE {
+	background-image: url("STORAGE.png");
+	background-size: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: center center;
+	display: inline-block;
+}
+.STORAGE h2 {
+	color: #FFFFFF;
+	font: Helvetica;
+}
+.STORAGE p {
+	color: #FFFFFF;
+	font: Arial;
+}
+.PSU {
+	background-image: url("PSU.jpg");
+	background-size: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: center center;
+	display: inline-block;
+}
+.PSU h2 {
+	color: #FFFFFF;
+	font: Helvetica;
+}
+.PSU p {
+	color: #FFFFFF;
+	font: Arial;
+}
+.COOLING {
+	background-image: url("COOLING.jpg");
+	background-size: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: center center;
+	display: inline-block;
+}
+.COOLING h2 {
+	color: #FFFFFF;
+	font: Helvetica;
+}
+.COOLING p {
+	color: #FFFFFF;
+	font: Arial;
+}
+.CASE {
+	background-image: url("CASE.jpg");
+	background-size: 100%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	background-position: center center;
+	display: inline-block;
+}
+.CASE h2 {
+	color: #FFFFFF;
+	font: Helvetica;
+}
+.CASE p {
+	color: #FFFFFF;
+	font: Arial;
+}
+
+/* Computer Software Page */
+.OS h2 {
+	color: #FFFFFF;
+	text-align: center;
+}
+.OS p {
+	color: #FFFFFF;
+	text-align: center;
+}
+.WB h2 {
+	color: #FFFFFF;
+	text-align: center;
+}
+.WB p {
+	color: #FFFFFF;
+	text-align: center;
+}
+.PRG h2 {
+	color: #FFFFFF;
+	text-align: center;
+}
+.PRG p {
+	color: #FFFFFF;
+	text-align: center;
+}
+.picwrapper {
+	width:100%;
+	text-align:center;
+}
+.pic {
+	display:inline-block;
+}
+
